@@ -19,7 +19,7 @@ import ComponentA from './components/componentA'
 export default {
   data: function() {
   	return{
-  		title: "this is a todo list1",
+  		title: "this is a todo list",
   		items: Store.fetch(),
   		newItem: '',
   		childWords: ''
