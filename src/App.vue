@@ -13,7 +13,7 @@
 </template>
 
 <script>
-import Store from './store'
+import Store from './common/js/store'
 import ComponentA from './components/componentA'
 
 export default {

@@ -1,3 +1,4 @@
+//这只缓存的存放及抓取
 const STORAGE_KEY = 'todo-vuejs'
 export default {
 	fetch() {
